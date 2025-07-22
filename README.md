@@ -1,11 +1,15 @@
 # 2024_MSME DATABASE ANALYSIS - Power BI Dashboard
 
-#Project Overview
+**Project Overview**
+
 This Power BI dashboard provides insights into access to market, finance and competence for MSME.
 
-#Objectives
+**Objectives**
+
 Understand trends and patterns of MSMEs needs in Niger Delta
+
 Enable data-driven decision-making through visuals
 
-#Tools & Technologies
+**Tools & Technologies**
+
 Power BI Desktop
