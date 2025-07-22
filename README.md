@@ -1,4 +1,4 @@
-# MSME DATABASE ANALYSIS - Power BI Dashboard
+# DATABASE ANALYSIS - Power BI Dashboard
 
 **Project Overview**
 
